@@ -11,7 +11,6 @@ The goal is to uncover trends, identify top-performing coffee brands, and explor
 Coffee_Brand_Review_Analysis/
 │── Coffee Review Dashboard Project Summary.pdf   # Detailed project summary & insights
 │── Coffee_Brand_Review.twbx                      # Tableau workbook with interactive dashboard
-│── Coffee_Brand_Review.xlsx                      # Original dataset
 ```
 
 ---
